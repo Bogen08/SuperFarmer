@@ -349,9 +349,40 @@ namespace WindowsFormsApp
         {
             if (players[playerId].animals["Rabbit"] > 0 && players[playerId].animals["Sheep"] > 0 && players[playerId].animals["Pig"] > 0 && players[playerId].animals["Cow"] > 0 && players[playerId].animals["Horse"] > 0)
             {
-                Console.WriteLine("Player {0} has become a Superfarmer", players[playerId].Name);
-                return true;
-            }
+                MessageBox.Show("Player " + players[currentPlayer].Name+" has become a SUPER FARMER!");
+                if (players.Length > 2)
+                {
+                    DialogResult dialogResult = MessageBox.Show("\"Do other players wish to continue playing?", "Confirmation", MessageBoxButtons.YesNo);
+                    if (dialogResult == DialogResult.Yes)
+                    {
+                        Player[] holder = new Player[players.Length - 1];
+                        for (int i = 0, j = 0; i < players.Length; i++, j++)
+                        {
+                            if (i == currentPlayer)
+                            {
+                                i++;
+                                if (i == players.Length)
+                                    break;
+                            }
+                            holder[j] = players[i];
+                        }
+                        players = new Player[players.Length - 1];
+
+                        for (int i = 0; i < players.Length; i++)
+                        {
+                            players[i] = holder[i];
+                        }
+                        holder = null;
+                        if (currentPlayer >= players.Length)
+                            currentPlayer = 0;
+                        return false;
+                    }
+                    else
+                        return true;
+                }
+                else
+                    return true;
+            }   
             return false;
         }
     }

@@ -206,7 +206,6 @@ namespace WindowsFormsApp
                 string test = InputBox("Add player", "Enter player " + (i+1) + " name");
                 GameEngine.AddPlayer(test);
             }
-
             LoadGameControlls();
         }
 
@@ -228,6 +227,8 @@ namespace WindowsFormsApp
 
         private void LoadGameControlls()
         {
+            if (GameEngine.CheckVictory(GameEngine.currentPlayer))
+                this.Close();
             ShowControl(gameControls);
             gameControls.LoadData(GameEngine.players[GameEngine.currentPlayer].Name, GameEngine.players[GameEngine.currentPlayer].animals, GameEngine.currentPlayerTraded);
         }

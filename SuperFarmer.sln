@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperFarmer", "SuperFarmer\SuperFarmer.csproj", "{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp", "WindowsFormsApp\WindowsFormsApp.csproj", "{EA6CF781-10B6-4C1D-A555-89911CEF83BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA6CF781-10B6-4C1D-A555-89911CEF83BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6CF781-10B6-4C1D-A555-89911CEF83BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6CF781-10B6-4C1D-A555-89911CEF83BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6CF781-10B6-4C1D-A555-89911CEF83BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C487C3AC-116D-4912-9D1F-D7CB69AA7AEF}
+	EndGlobalSection
+EndGlobal

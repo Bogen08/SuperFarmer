@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|c:\\users\\bogen\\source\\repos\\superfarmer\\superfarmer\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|solutionrelative:superfarmer\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6CF781-10B6-4C1D-A555-89911CEF83BE}|WindowsFormsApp\\WindowsFormsApp.csproj|c:\\users\\bogen\\source\\repos\\superfarmer\\windowsformsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA6CF781-10B6-4C1D-A555-89911CEF83BE}|WindowsFormsApp\\WindowsFormsApp.csproj|solutionrelative:windowsformsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6CF781-10B6-4C1D-A555-89911CEF83BE}|WindowsFormsApp\\WindowsFormsApp.csproj|C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\windowsformsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6CF781-10B6-4C1D-A555-89911CEF83BE}|WindowsFormsApp\\WindowsFormsApp.csproj|solutionrelative:windowsformsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|c:\\users\\bogen\\source\\repos\\superfarmer\\superfarmer\\tradeanimalselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|solutionrelative:superfarmer\\tradeanimalselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|c:\\users\\bogen\\source\\repos\\superfarmer\\superfarmer\\tradeanimalselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|solutionrelative:superfarmer\\tradeanimalselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|c:\\users\\bogen\\source\\repos\\superfarmer\\superfarmer\\gamecontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|solutionrelative:superfarmer\\gamecontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|c:\\users\\bogen\\source\\repos\\superfarmer\\superfarmer\\gamecontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|solutionrelative:superfarmer\\gamecontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6CF781-10B6-4C1D-A555-89911CEF83BE}|WindowsFormsApp\\WindowsFormsApp.csproj|c:\\users\\bogen\\source\\repos\\superfarmer\\windowsformsapp\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6CF781-10B6-4C1D-A555-89911CEF83BE}|WindowsFormsApp\\WindowsFormsApp.csproj|solutionrelative:windowsformsapp\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|c:\\users\\bogen\\source\\repos\\superfarmer\\superfarmer\\tradepartnerselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|solutionrelative:superfarmer\\tradepartnerselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|c:\\users\\bogen\\source\\repos\\superfarmer\\superfarmer\\checkanimals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|solutionrelative:superfarmer\\checkanimals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|c:\\users\\bogen\\source\\repos\\superfarmer\\superfarmer\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|solutionrelative:superfarmer\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|c:\\users\\bogen\\source\\repos\\superfarmer\\superfarmer\\checkanimals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|solutionrelative:superfarmer\\checkanimals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|c:\\users\\bogen\\source\\repos\\superfarmer\\superfarmer\\tradepartnerselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFA182D3-DFFF-474C-8C9F-78EE4F677C6A}|SuperFarmer\\SuperFarmer.csproj|solutionrelative:superfarmer\\tradepartnerselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameSettings.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\GameSettings.cs",
+              "RelativeDocumentMoniker": "SuperFarmer\\GameSettings.cs",
+              "ToolTip": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\GameSettings.cs [Projekt]",
+              "RelativeToolTip": "SuperFarmer\\GameSettings.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:05:25.673Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameControls.cs",
+              "DocumentMoniker": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\GameControls.cs",
+              "RelativeDocumentMoniker": "SuperFarmer\\GameControls.cs",
+              "ToolTip": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\GameControls.cs",
+              "RelativeToolTip": "SuperFarmer\\GameControls.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:59:07.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameControls.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\GameControls.cs",
+              "RelativeDocumentMoniker": "SuperFarmer\\GameControls.cs",
+              "ToolTip": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\GameControls.cs [Projekt]",
+              "RelativeToolTip": "SuperFarmer\\GameControls.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:58:28.594Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\Parser.cs",
+              "RelativeDocumentMoniker": "SuperFarmer\\Parser.cs",
+              "ToolTip": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\Parser.cs",
+              "RelativeToolTip": "SuperFarmer\\Parser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:03:07.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CheckAnimals.cs",
+              "DocumentMoniker": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\CheckAnimals.cs",
+              "RelativeDocumentMoniker": "SuperFarmer\\CheckAnimals.cs",
+              "ToolTip": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\CheckAnimals.cs",
+              "RelativeToolTip": "SuperFarmer\\CheckAnimals.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:33:21.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckAnimals.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\CheckAnimals.cs",
+              "RelativeDocumentMoniker": "SuperFarmer\\CheckAnimals.cs",
+              "ToolTip": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\CheckAnimals.cs [Projekt]",
+              "RelativeToolTip": "SuperFarmer\\CheckAnimals.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:33:19.535Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TradePartnerSelect.cs",
+              "DocumentMoniker": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\TradePartnerSelect.cs",
+              "RelativeDocumentMoniker": "SuperFarmer\\TradePartnerSelect.cs",
+              "ToolTip": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\TradePartnerSelect.cs",
+              "RelativeToolTip": "SuperFarmer\\TradePartnerSelect.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBQAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:10:50.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TradeAnimalSelect.cs",
+              "DocumentMoniker": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\TradeAnimalSelect.cs",
+              "RelativeDocumentMoniker": "SuperFarmer\\TradeAnimalSelect.cs",
+              "ToolTip": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\TradeAnimalSelect.cs",
+              "RelativeToolTip": "SuperFarmer\\TradeAnimalSelect.cs",
+              "ViewState": "AQIAAOwAAAAAAAAAAAAAAPYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:50:59.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TradeAnimalSelect.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\TradeAnimalSelect.cs",
+              "RelativeDocumentMoniker": "SuperFarmer\\TradeAnimalSelect.cs",
+              "ToolTip": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\TradeAnimalSelect.cs [Projekt]",
+              "RelativeToolTip": "SuperFarmer\\TradeAnimalSelect.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:49:45.449Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TradePartnerSelect.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\TradePartnerSelect.cs",
+              "RelativeDocumentMoniker": "SuperFarmer\\TradePartnerSelect.cs",
+              "ToolTip": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\SuperFarmer\\TradePartnerSelect.cs [Projekt]",
+              "RelativeToolTip": "SuperFarmer\\TradePartnerSelect.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:00:52.806Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\WindowsFormsApp\\Game.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp\\Game.cs",
+              "ToolTip": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\WindowsFormsApp\\Game.cs",
+              "RelativeToolTip": "WindowsFormsApp\\Game.cs",
+              "ViewState": "AQIAADwBAAAAAAAAAAAAwFgBAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:47:37.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\WindowsFormsApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\WindowsFormsApp\\MainForm.cs",
+              "RelativeToolTip": "WindowsFormsApp\\MainForm.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAIwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:52:49.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\WindowsFormsApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Bogen\\source\\repos\\SuperFarmer\\WindowsFormsApp\\MainForm.cs [Projekt]",
+              "RelativeToolTip": "WindowsFormsApp\\MainForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:52:16.607Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

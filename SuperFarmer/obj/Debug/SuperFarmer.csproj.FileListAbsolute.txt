@@ -1,0 +1,14 @@
+C:\Users\Bogen\source\repos\SuperFarmer\SuperFarmer\bin\Debug\SuperFarmer.dll
+C:\Users\Bogen\source\repos\SuperFarmer\SuperFarmer\bin\Debug\SuperFarmer.pdb
+C:\Users\Bogen\source\repos\SuperFarmer\SuperFarmer\obj\Debug\SuperFarmer.csproj.AssemblyReference.cache
+C:\Users\Bogen\source\repos\SuperFarmer\SuperFarmer\obj\Debug\SuperFarmer.csproj.CoreCompileInputs.cache
+C:\Users\Bogen\source\repos\SuperFarmer\SuperFarmer\obj\Debug\SuperFarmer.dll
+C:\Users\Bogen\source\repos\SuperFarmer\SuperFarmer\obj\Debug\SuperFarmer.pdb
+C:\Users\Bogen\source\repos\SuperFarmer\SuperFarmer\obj\Debug\SuperFarmer.CheckAnimals.resources
+C:\Users\Bogen\source\repos\SuperFarmer\SuperFarmer\obj\Debug\SuperFarmer.DiceRoll.resources
+C:\Users\Bogen\source\repos\SuperFarmer\SuperFarmer\obj\Debug\SuperFarmer.GameControls.resources
+C:\Users\Bogen\source\repos\SuperFarmer\SuperFarmer\obj\Debug\SuperFarmer.GameSettings.resources
+C:\Users\Bogen\source\repos\SuperFarmer\SuperFarmer\obj\Debug\SuperFarmer.MainMenuControls.resources
+C:\Users\Bogen\source\repos\SuperFarmer\SuperFarmer\obj\Debug\SuperFarmer.TradeAnimalSelect.resources
+C:\Users\Bogen\source\repos\SuperFarmer\SuperFarmer\obj\Debug\SuperFarmer.TradePartnerSelect.resources
+C:\Users\Bogen\source\repos\SuperFarmer\SuperFarmer\obj\Debug\SuperFarmer.csproj.GenerateResource.cache

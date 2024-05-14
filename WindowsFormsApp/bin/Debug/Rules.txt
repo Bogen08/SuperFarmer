@@ -1,0 +1,16 @@
+You are an animal breeder and want to become a super farmer. Your animals reproduce, which brings you profit. You can trade the animals you have bred for others if you find it profitable. To win, you must be the first to obtain a herd consisting of at least a horse, a cow, a pig, a sheep, and a rabbit. However, all your plans may remain only dreams if you do not exercise due caution! In the area, there are a wolf and a fox prowling, which can easily prey on your animals.
+
+Game progress
+The game can be played by 2 to 4 people. One additional person, if they want, can be indirectly involved in the game and only act as a herd guardian and make trades. All the cards and dog figurines are in the main herd, preferably in the box. Each player receives one rabbit, which they place on the table in front of them.
+
+Animal reproduction
+Players take turns, always rolling two dice. If a player rolls the dice and the same animal appears on both, they get that animal from the main herd. When a player already has some animals, they receive from the herd as many animals of the rolled species as they have full pairs of that species (including those rolled on the dice).
+
+Trading
+Before each dice roll, a player, if they wish, can make one trade: with the main herd (if the herd has the animals they need) or with another player (if the other player agrees). Trades are made according to the exchange rates shown in the exchange table. NOTE! A player can exchange several animals for one animal. They can also exchange one animal for several animals - following the exchange rates given in the table. There is no bargaining and demanding more than indicated in the table. If there are few animals left in the herd, the player receives from the herd (as a result of the dice roll or trade) only as many as there are, losing the right to the missing ones. For example, if there are 3 rabbits left in the herd and the player should receive 4 rabbits as a result of the dice roll, they only get three.
+
+Loss of animals
+If a player rolls a fox, they lose all the rabbits they have to the herd, except one. If they roll a wolf, they lose all the animals they have, except for the horse, rabbits, and small dog (if they have them).
+
+End of the game
+A super farmer is the player who has at least one horse, cow, pig, sheep, and rabbit in their herd. The remaining players can continue playing.

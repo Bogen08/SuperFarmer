@@ -1,0 +1,13 @@
+C:\Users\Bogen\source\repos\SuperFarmer\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Bogen\source\repos\SuperFarmer\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Bogen\source\repos\SuperFarmer\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Bogen\source\repos\SuperFarmer\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Bogen\source\repos\SuperFarmer\WindowsFormsApp\obj\Debug\WindowsFormsApp.MainForm.resources
+C:\Users\Bogen\source\repos\SuperFarmer\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Bogen\source\repos\SuperFarmer\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Bogen\source\repos\SuperFarmer\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Bogen\source\repos\SuperFarmer\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Bogen\source\repos\SuperFarmer\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Bogen\source\repos\SuperFarmer\WindowsFormsApp\bin\Debug\SuperFarmer.dll
+C:\Users\Bogen\source\repos\SuperFarmer\WindowsFormsApp\bin\Debug\SuperFarmer.pdb
+C:\Users\Bogen\source\repos\SuperFarmer\WindowsFormsApp\obj\Debug\WindowsF.5F5EF213.Up2Date

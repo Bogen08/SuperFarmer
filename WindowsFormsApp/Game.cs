@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -110,9 +110,9 @@ namespace WindowsFormsApp
 
         public string AnimalMultiplication(int playerId, string animalName)
         {
-            //Console.WriteLine("+ {0} {1}", players[playerId].animals[animalName] / 2, animalName);
-            AnimalTransfer(playerId, animalName, players[playerId].animals[animalName] / 2);
-            return ("+ "+(players[playerId].animals[animalName]/2)+" "+animalName);
+            int ammount = players[playerId].animals[animalName] / 2;
+            AnimalTransfer(playerId, animalName, ammount);
+            return ("+ "+ammount+" "+animalName);
         }
 
         public void printHerdAnimals()
